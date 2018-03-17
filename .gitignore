@@ -24,7 +24,6 @@ gradle-app.setting
 
 ### IntelliJ IDEA ###
 /.idea/
-.idea/
 *.iws
 *.iml
 *.ipr
@@ -41,8 +40,6 @@ nb-configuration.xml
 
 ### IDEs and editors ###
 .settings/
-.classpath
-.project
 .c9/
 *.launch
 *.sublime-workspace
