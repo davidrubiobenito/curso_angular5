@@ -58,7 +58,7 @@ nb-configuration.xml
 
 # dependencies
 /node_modules
-src/main/webapp/angular/node_modules
+/src/main/webapp/angular/node_modules
 
 # misc
 /.sass-cache
