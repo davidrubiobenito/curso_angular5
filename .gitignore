@@ -10,7 +10,6 @@ gradle-app.setting
 # # Work around https://youtrack.jetbrains.com/issue/IDEA-116898
 # gradle/wrapper/gradle-wrapper.properties
 
-
 .gradle
 /build/
 !gradle/wrapper/gradle-wrapper.jar
@@ -24,7 +23,8 @@ gradle-app.setting
 .springBeans
 
 ### IntelliJ IDEA ###
-.idea
+/.idea/
+.idea/
 *.iws
 *.iml
 *.ipr
@@ -36,26 +36,15 @@ nbbuild/
 dist/
 nbdist/
 .nb-gradle/
+nbactions.xml
+nb-configuration.xml
 
-
-
-
-# compiled output
-/dist
-/tmp
-/out-tsc
-
-# dependencies
-/node_modules
-src/main/webapp/angular/node_modules
-
-# IDEs and editors
-/.idea
-.project
+### IDEs and editors ###
+.settings/
 .classpath
+.project
 .c9/
 *.launch
-.settings/
 *.sublime-workspace
 
 # IDE - VSCode
@@ -65,6 +54,15 @@ src/main/webapp/angular/node_modules
 !.vscode/launch.json
 !.vscode/extensions.json
 
+# compiled utput
+/dist
+/tmp
+/out-tsc
+
+# dependencies
+/node_modules
+src/main/webapp/angular/node_modules
+
 # misc
 /.sass-cache
 /connect.lock
@@ -73,6 +71,10 @@ src/main/webapp/angular/node_modules
 npm-debug.log
 testem.log
 /typings
+*.swp
+release.properties
+pom.xml.releaseBackup
+pom.xml.tag
 
 # e2e
 /e2e/*.js
@@ -84,3 +86,6 @@ Thumbs.db
 /bin/
 /target/
 
+# Maven
+log/
+target/
