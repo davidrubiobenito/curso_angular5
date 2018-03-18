@@ -60,6 +60,9 @@ nb-configuration.xml
 /node_modules
 /src/main/webapp/angular/node_modules
 
+## Dependencias curso
+/src/main/webapp/curso-angular5/03-componentes-y-plantillas/02-crear-un-componente/node_modules/
+
 # misc
 /.sass-cache
 /connect.lock
@@ -86,3 +89,4 @@ Thumbs.db
 # Maven
 log/
 target/
+
