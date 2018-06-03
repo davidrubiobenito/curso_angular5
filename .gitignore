@@ -60,9 +60,6 @@ nb-configuration.xml
 /node_modules
 /src/main/webapp/angular/node_modules
 
-## Dependencias curso
-/src/main/webapp/curso-angular5/03-componentes-y-plantillas/02-crear-un-componente/node_modules/
-
 # misc
 /.sass-cache
 /connect.lock
@@ -90,3 +87,17 @@ Thumbs.db
 log/
 target/
 
+## Dependencias curso
+/src/main/webapp/curso-angular5/03-componentes-y-plantillas/02-crear-un-componente/node_modules/
+/src/main/webapp/curso-angular5/03-componentes-y-plantillas/03-multiples-componentes/node_modules/
+/src/main/webapp/curso-angular5/04-typescript/01-propiedades-tipos-datos/node_modules/
+/src/main/webapp/curso-angular5/04-typescript/02-crear-clases/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/02-ngif-click/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/03-ngFor/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/04-ngSwitch-ngStyle/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/05-Two-data-binding/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/06-ngStyle/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/07-ngClass/node_modules/
+/src/main/webapp/curso-angular5/05-Directivas-binding-eventos/08-directiva-ngClass/node_modules/
+/src/main/webapp/curso-angular5/06-Routing-navegacion/01-configurar-routing/node_modules/
+/src/main/webapp/curso-angular5/06-Routing-navegacion/02-menu-navegacion/node_modules/
