@@ -1,0 +1,26 @@
+<!--The content below is only a placeholder and can be replaced.-->
+<div>
+  <h1>
+    Welcome to {{ title }}!
+  </h1>
+  <hr>
+
+  <nav>
+    <a [routerLink]="'/home'" [routerLinkActive]="['activado']">Home</a>
+    -
+    <a [routerLink]="'/fruta'" [routerLinkActive]="['activado']">Fruta</a>
+    -
+    <a [routerLink]="'/empleado'" [routerLinkActive]="['activado']">Empleado</a>
+    -
+    <a [routerLink]="'/contacto'" [routerLinkActive]="['activado']">Contacto</a>
+    -
+    <a [routerLink]="'/coches'" [routerLinkActive]="['activado']">Coches</a>
+  </nav>
+
+  <!-- <fruta></fruta> -->
+  <!-- <empleado></empleado> -->
+
+  <router-outlet></router-outlet>
+</div>
+
+

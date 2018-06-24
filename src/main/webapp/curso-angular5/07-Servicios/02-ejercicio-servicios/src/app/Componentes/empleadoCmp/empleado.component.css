@@ -1,0 +1,10 @@
+.fondoAzul {
+    border: 5px solid lightblue !important;
+    text-transform: uppercase;
+    background: lightblue;
+}
+.fondoVerde {
+    border: 5px solid lightgreen !important;
+    text-transform: uppercase;
+    background: lightgreen;
+}

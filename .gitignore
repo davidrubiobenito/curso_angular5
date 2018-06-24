@@ -101,3 +101,13 @@ target/
 /src/main/webapp/curso-angular5/05-Directivas-binding-eventos/08-directiva-ngClass/node_modules/
 /src/main/webapp/curso-angular5/06-Routing-navegacion/01-configurar-routing/node_modules/
 /src/main/webapp/curso-angular5/06-Routing-navegacion/02-menu-navegacion/node_modules/
+/src/main/webapp/curso-angular5/06-Routing-navegacion/03-marcar-elemento-menu/node_modules/
+/src/main/webapp/curso-angular5/06-Routing-navegacion/04-rutas-parametros-url/node_modules/
+/src/main/webapp/curso-angular5/06-Routing-navegacion/05-redirecciones-router/node_modules/
+/src/main/webapp/curso-angular5/07-Servicios/01-crear-utilizar-servicio/node_modules/
+/src/main/webapp/curso-angular5/07-Servicios/02-ejercicio-servicios/node_modules/
+/src/main/webapp/curso-angular5/08-Pipes/02-pipes-default/node_modules/
+/src/main/webapp/curso-angular5/08-Pipes/03-pipes-personalizadas/node_modules/
+/src/main/webapp/curso-angular5/09-formularios/02-crear-formularios/node_modules/
+/src/main/webapp/curso-angular5/09-formularios/03-ejercicio-fomularios/node_modules/
+/src/main/webapp/curso-angular5/10-servicios-http-ajax/01-crear-servicio-http/node_modules/
